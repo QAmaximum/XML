@@ -1,0 +1,5 @@
+<xml>
+  <header>"name_of_header"</header>
+  <steps_to_reproduce>"1...; 2...; 3...;"</steps_to_reproduce>
+  <project>"project_1"</project>
+  <severity>"minor"</severity>
